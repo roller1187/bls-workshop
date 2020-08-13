@@ -8,11 +8,16 @@
 #### Our OpenShift cluster is running in AWS and its URI is:
 * http://console-openshift-console.apps.cluster-bls-76a9.bls-76a9.example.opentlc.com
 
+#### Slides available here:
+
+* http://info.redhatgov.io/bls/ocp_101_workshop.pdf
+
+
 ### For any questions during the hands-on portion, just raise your hand and please feel free to provide any feedback here on this gist
 
 ---
 
-### Contact Info: ###
+### Contact Info:
 Andres Romero
 
 aromero@redhat.com
