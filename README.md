@@ -5,12 +5,18 @@
 ### NOTE: Open this up in a new tab/browser window:
 * http://redhatgov.io/workshops/openshift_4_101/
 
-### PAUSE HERE. We will walk you through the links listed below in just a moment
----
 #### Our OpenShift cluster is running in AWS and its URI is:
 * http://console-openshift-console.apps.cluster-bls-76a9.bls-76a9.example.opentlc.com
 
 ### For any questions during the hands-on portion, just raise your hand and please feel free to provide any feedback here on this gist
+
+---
+
+### Contact Info: ###
+Andres Romero
+aromero@redhat.com
+
+---
 
 And do some self paced labs here:
 https://learn.openshift.com/
