@@ -12,6 +12,13 @@
 
 * http://info.redhatgov.io/bls/ocp_101_workshop.pdf
 
+## Cluster details (Please refer to slide 26 for details)
+
+    Use the following information located at the bottom of the workshop page:
+        ● Student ID: Provided to you (This is unique to every user)
+        ● Domain: Select “opentlc.com”
+        ● Workshop: cluster-bls-76a9.bls-76a9.example
+        ● Click “Enter”
 
 ### For any questions during the hands-on portion, just raise your hand and please feel free to provide any feedback here on this gist
 
